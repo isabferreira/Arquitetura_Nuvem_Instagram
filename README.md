@@ -2,10 +2,9 @@
 
 ## Descrição
 Projeto acadêmico que modela a arquitetura em nuvem de uma rede social inspirada no **Instagram**, incluindo:
-- Arquitetura em nuvem (camadas, armazenamento, escalabilidade, segurança).
 - Modelagem BPMN do caso de uso **Criar Post**.
 - Planejamento de custos com cenários de uso.
-- Discussão sobre arquiteturas multi-nuvem e híbrida.
+- Arquiteturas multi-nuvem e híbrida.
 
 ## Membros do Grupo
 - Arthur Galdino
